@@ -3,4 +3,4 @@ This is a decentralized OTT platform. With the help of solidity contracts, and G
 Run 
     - cd client 
     - npm run dev 
-https://github.com/balutarock/nativeBase - this was an integration project with the current project. We submitted in two different google forms but both are from the same team.
+![Image Gallery App Screenshot](image.png)
